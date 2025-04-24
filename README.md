@@ -9,6 +9,10 @@ f3d3r1c07/f3d3r1c07 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Certificates : - Python PON (https://github.com/user-attachments/files/19892022/Santilli_signed.pdf)
-                - Google Cybersecurity Certificate (https://github.com/user-attachments/files/19892212/Google.Cybersecurity.Certificate.pdf)
-                - Deep Learning Specialization Certificate (https://github.com/user-attachments/files/19892261/Deep.Learning.Spec.Certificate.pdf)
+Certificates: 
+
+1. Python PON (https://github.com/user-attachments/files/19892022/Santilli_signed.pdf)
+   
+2. Google Cybersecurity Certificate (https://github.com/user-attachments/files/19892212/Google.Cybersecurity.Certificate.pdf)
+  
+3. Deep Learning Specialization Certificate (https://github.com/user-attachments/files/19892261/Deep.Learning.Spec.Certificate.pdf)
