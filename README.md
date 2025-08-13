@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f3d3r1c07
+- 👋 Hi, I’m Federico from Italy!
 - 👀 I’m interested in AI, Computer Science & Mathematics
 - 🌱 I’m currently at high school
 - 💞️ I’m looking to collaborate on diverse projects
